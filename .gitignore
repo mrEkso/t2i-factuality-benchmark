@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env_example
+.venv/
+__pycache__/
+*.pyc
+*.log
+generation/gpt_image_2_logs
+**/.DS_Store
+wiki_summary_cache.json
